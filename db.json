@@ -1,14 +1,60 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "ALUMNO": [
+        {
+            "Codcli": "20181TEINF013",
+            "Usuario_id": "179143488",
+            "NombreCompleto": "CARLOS FLUCES CATRIAN GAETE",
+            "Ano_curso": "2019",
+            "email": "FLUCEC@HOTMAIL.COM",
+            "Estado": "10",
+            "Deuda": "NO",
+            "Carrera": "TÉCNICO DE NIVEL SUPERIOR EN INFORMÁTICA",
+            "Sede": {
+                "nombre": "TEMUCO",
+                "codigo": "TE"
+            }
+        },
+        {
+            "Codcli": "20181TEINF011",
+            "Usuario_id": "201060923",
+            "NombreCompleto": "DENIS MACARENA ROMAN TORRES",
+            "Ano_curso": "2019",
+            "email": "DENNISRT056@GMAIL.COM",
+            "Estado": "10",
+            "Deuda": "NO",
+            "Carrera": "TÉCNICO DE NIVEL SUPERIOR EN INFORMÁTICA",
+            "Sede": {
+                "nombre": "TEMUCO",
+                "codigo": "TE"
+            }
+        },
+        {
+            "Codcli": "20181TEINF008",
+            "Usuario_id": "201033292",
+            "NombreCompleto": "NICOLAS SEBASTIAN ANDRES INOSTROZA FERRADA",
+            "Ano_curso": "2019",
+            "email": "NICOLASINOSTROSA@GMAIL.COM",
+            "Estado": "10",
+            "Deuda": "NO",
+            "Carrera": "TÉCNICO DE NIVEL SUPERIOR EN INFORMÁTICA",
+            "Sede": {
+                "nombre": "TEMUCO",
+                "codigo": "TE"
+            }
+        },
+        {
+            "Codcli": "20181TEINF004",
+            "Usuario_id": "191408705",
+            "NombreCompleto": "PABLO ERNESTO BARRIA ANDRADE",
+            "Ano_curso": "2019",
+            "email": "PBAE.SEHC@GMAIL.COM",
+            "Estado": "10",
+            "Deuda": "NO",
+            "Carrera": "TÉCNICO DE NIVEL SUPERIOR EN INFORMÁTICA",
+            "Sede": {
+                "nombre": "TEMUCO",
+                "codigo": "TE"
+            }
+        }
+    ]
 }
