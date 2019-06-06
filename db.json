@@ -55,6 +55,34 @@
                 "nombre": "TEMUCO",
                 "codigo": "TE"
             }
+        },
+        {
+            "Codcli": "20181TEINF007",
+            "Usuario_id": "189296169",
+            "NombreCompleto": "JOSE MANUEL DE LA FUENTE CALDERON",
+            "Ano_curso": "2019",
+            "email": "JOSE.DLF25@GMAIL.COM",
+            "Estado": "10",
+            "Deuda": "NO",
+            "Carrera": "TÉCNICO DE NIVEL SUPERIOR EN INFORMÁTICA",
+            "Sede": {
+                "nombre": "Temuco",
+                "codigo": "TE"
+            }
+        },
+        {
+            "Codcli": "20181TEINF006",
+            "Usuario_id": "202269265",
+            "NombreCompleto": "FERNADO JOSE VALENZUELA  GODOY",
+            "Ano_curso": "2019",
+            "email": "FERNADOVALENZUELAGODOY@GMAIL.COM",
+            "Estado": "10",
+            "Deuda": "NO",
+            "Carrera": "TÉCNICO DE NIVEL SUPERIOR EN INFORMÁTICA",
+            "Sede": {
+                "nombre": "Temuco",
+                "codigo": "TE"
+            }
         }
     ]
 }
